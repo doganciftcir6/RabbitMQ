@@ -1,0 +1,10 @@
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\bin\Debug\netstandard2.1\Shared.deps.json
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\bin\Debug\netstandard2.1\Shared.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\bin\Debug\netstandard2.1\Shared.pdb
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.csproj.AssemblyReference.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfoInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfo.cs
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ\Shared\obj\Debug\netstandard2.1\Shared.pdb

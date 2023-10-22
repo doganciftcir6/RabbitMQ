@@ -1,0 +1,10 @@
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\bin\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.deps.json
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\bin\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\bin\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.pdb
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.csproj.AssemblyReference.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.AssemblyInfoInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.AssemblyInfo.cs
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyRabbitMQ.WatermarkApp\UdemyRabbitMQExcelCreateApp.Shared\obj\Debug\netstandard2.1\UdemyRabbitMQ.ExcelCreateApp.Shared.pdb

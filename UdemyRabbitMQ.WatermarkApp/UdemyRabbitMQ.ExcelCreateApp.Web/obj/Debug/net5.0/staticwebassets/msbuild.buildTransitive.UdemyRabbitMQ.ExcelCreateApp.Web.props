@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UdemyRabbitMQ.ExcelCreateApp.Web.props" />
+</Project>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyRabbitMQ.WatermarkApp.Web", "UdemyRabbitMQ.WatermarkApp.Web\UdemyRabbitMQ.WatermarkApp.Web.csproj", "{A7E7C80B-7A1F-4473-BD7B-FE9DF44892BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyRabbitMQ.ExcelCreateApp.Web", "UdemyRabbitMQ.ExcelCreateApp.Web\UdemyRabbitMQ.ExcelCreateApp.Web.csproj", "{697A704E-5D63-4F8D-8217-9C7AA7843904}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyRabbitMQ.ExcelCreateApp.Shared", "UdemyRabbitMQExcelCreateApp.Shared\UdemyRabbitMQ.ExcelCreateApp.Shared.csproj", "{3912B8A5-80F4-44C1-9508-D9E805C0DED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyRabbitMQ.ExcelCreateApp.FileCreateWorkerService", "UdemyRabbitMQ.ExcelCreateApp.FileCreateWorkerService\UdemyRabbitMQ.ExcelCreateApp.FileCreateWorkerService.csproj", "{C3DA6121-74F7-456A-959A-D6DB95891E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E7C80B-7A1F-4473-BD7B-FE9DF44892BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E7C80B-7A1F-4473-BD7B-FE9DF44892BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E7C80B-7A1F-4473-BD7B-FE9DF44892BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E7C80B-7A1F-4473-BD7B-FE9DF44892BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697A704E-5D63-4F8D-8217-9C7AA7843904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697A704E-5D63-4F8D-8217-9C7AA7843904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697A704E-5D63-4F8D-8217-9C7AA7843904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697A704E-5D63-4F8D-8217-9C7AA7843904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3912B8A5-80F4-44C1-9508-D9E805C0DED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3912B8A5-80F4-44C1-9508-D9E805C0DED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3912B8A5-80F4-44C1-9508-D9E805C0DED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3912B8A5-80F4-44C1-9508-D9E805C0DED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DA6121-74F7-456A-959A-D6DB95891E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DA6121-74F7-456A-959A-D6DB95891E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DA6121-74F7-456A-959A-D6DB95891E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DA6121-74F7-456A-959A-D6DB95891E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {509C9193-F44D-4811-BE79-B5AF650A5BD4}
+	EndGlobalSection
+EndGlobal
